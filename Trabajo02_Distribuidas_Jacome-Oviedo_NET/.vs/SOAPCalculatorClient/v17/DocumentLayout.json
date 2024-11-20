@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OCTAVO\\DISTRIBUIDAS\\PRIMERPARCIAL\\.NET\\SOAPCalculatorClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73740486-D551-481E-A9EE-8677362F2903}|SOAPCalculatorClient.csproj|c:\\octavo\\distribuidas\\primerparcial\\.net\\soapcalculatorclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73740486-D551-481E-A9EE-8677362F2903}|SOAPCalculatorClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73740486-D551-481E-A9EE-8677362F2903}|SOAPCalculatorClient.csproj|c:\\octavo\\distribuidas\\primerparcial\\.net\\soapcalculatorclient\\connected services\\calculatorservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73740486-D551-481E-A9EE-8677362F2903}|SOAPCalculatorClient.csproj|solutionrelative:connected services\\calculatorservice\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73740486-D551-481E-A9EE-8677362F2903}|SOAPCalculatorClient.csproj|c:\\octavo\\distribuidas\\primerparcial\\.net\\soapcalculatorclient\\soapcalculatorclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73740486-D551-481E-A9EE-8677362F2903}|SOAPCalculatorClient.csproj|solutionrelative:soapcalculatorclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SOAPCalculatorClient.csproj",
+              "DocumentMoniker": "C:\\OCTAVO\\DISTRIBUIDAS\\PRIMERPARCIAL\\.NET\\SOAPCalculatorClient\\SOAPCalculatorClient.csproj",
+              "RelativeDocumentMoniker": "SOAPCalculatorClient.csproj",
+              "ToolTip": "C:\\OCTAVO\\DISTRIBUIDAS\\PRIMERPARCIAL\\.NET\\SOAPCalculatorClient\\SOAPCalculatorClient.csproj",
+              "RelativeToolTip": "SOAPCalculatorClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T00:25:55.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\OCTAVO\\DISTRIBUIDAS\\PRIMERPARCIAL\\.NET\\SOAPCalculatorClient\\Connected Services\\CalculatorService\\Reference.cs",
+              "RelativeDocumentMoniker": "Connected Services\\CalculatorService\\Reference.cs",
+              "ToolTip": "C:\\OCTAVO\\DISTRIBUIDAS\\PRIMERPARCIAL\\.NET\\SOAPCalculatorClient\\Connected Services\\CalculatorService\\Reference.cs",
+              "RelativeToolTip": "Connected Services\\CalculatorService\\Reference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:23:04.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OCTAVO\\DISTRIBUIDAS\\PRIMERPARCIAL\\.NET\\SOAPCalculatorClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\OCTAVO\\DISTRIBUIDAS\\PRIMERPARCIAL\\.NET\\SOAPCalculatorClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:14:30.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
